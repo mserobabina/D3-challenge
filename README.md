@@ -1,5 +1,5 @@
 # Correlations Between Health Risks, Age, and Income     
-  
+                           
 ### Background   
 - Interactive scatterplot that shows correlations between Health Risks, Age, and Income in United States.        
   
